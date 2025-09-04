@@ -1,0 +1,171 @@
+.logo{
+    height:50px;
+}
+
+.ayrac{
+font-size: 20px;
+margin: 0px 20px;
+color:white;  
+}
+
+.ust-kısım{
+background-image:url(images1.jpg);
+height:100vh;
+width: 100%;
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat ;
+background-attachment:fixed;
+}
+
+.nav-bg{
+ background-color: #0000005f;
+}
+
+.nav-item a{
+
+    color: #ffff;
+    font-size: 16px;
+    fony-weight:bold;
+}
+
+.nav-item a:hover{
+
+   color: #f4b70b;
+}
+
+@media screen and (max-width :992px) {
+ .ayrac{
+    display: none;
+ }   
+
+
+
+}
+
+.nav-item:hover{
+    background-color: black;
+}
+
+/* Teklif Kısmı */
+
+.teklif{ 
+    height: 60px;
+}
+
+.tirnak{
+
+    color:#f4b70b;
+    font-size: 36px;
+    font-weight:bold;
+}
+
+.imza{
+    font-size: 20px;
+}
+
+/* Hizmetlerimiz */
+
+.hizmetlerimiz{
+    background-color: #f4b70b;
+}
+
+
+.row a {
+  display: flex;
+}
+
+.calisan_foto{
+    height: 150px;
+    width: 150 px
+    background-color: #2c3e50;
+}
+
+/* Slogan Kısmı */
+
+.tirnak1{
+
+    color:#f4b70b;
+    font-size: 48px;
+    font-weight:bold;
+}
+
+.soz{
+ font-size: 26px;
+ color: white;
+}
+
+.slogan{ 
+
+    background-image: url(universe.jpg);
+    background-size :cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+.roket-icon{
+    font-size: 50px;
+    color: white;
+}
+
+.calisma{
+padding: 5px;
+
+}
+
+.calisma:hover{
+  border:1 px solid rgba(128, 128, 128, 0);  
+  cursor:pointer;
+}
+
+.calisma img{
+ height: 150px;
+}
+
+.footer{
+ background-color: #2c3e50;   
+ height:300px;
+ color: #95a569;
+ font-size: 24px;
+}
+
+.footer-sutun{
+    height:300px;
+}
+
+/* İLETİŞİM Kısmı */
+
+.simgeler{
+font-size: 16px;
+}
+/* hakkımızda  Kısmı */
+
+.ust-kısım-sayfalar{
+background-image:url(images1.jpg);
+height:100vh;
+width: 100%;
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat ;
+background-attachment:fixed;
+}
+
+.header-yuk{
+height:calc(50vh - 70px);
+
+}
+
+.sayfa-baslik h3{
+    color: #f4b70b;
+    font-weight: bold;
+}
+.sayfa-baslik p{
+
+    color: #ffff;
+    font-weight: bold;
+}
+
+.arkaplanı2{
+    background-color: aliceblue;
+}
